@@ -1,0 +1,9 @@
+{
+  "name": "phlrp-status-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@infernus/query": "^0.1.3"
+  }
+}
